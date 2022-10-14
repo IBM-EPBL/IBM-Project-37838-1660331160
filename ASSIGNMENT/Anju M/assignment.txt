@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <link rel="stylesheet" href="style.css">
+    <div class="resume_page">
+        <div class="column">
+            <section class="profile">
+                <h1>Anju M</h1>
+                <p><em>Fresher</em></p>  
+                <img src="E:\IMG-20210318-WA0012.jpg" width="300" height="300"></a>
+            </section>
+            <section class="objective">
+                <h2>Objective</h2>
+                <p><h4>To utilize my skills for a better future in best possible way for achieving the goals of the company as well as enhance my knowledge.</h4></p>
+                <ul><li>anjumanju926@gmail.com</li>
+                    <li>9087720651</li>
+                    <li>https://www.linkedin.com/in/anju-m-33183b251/</li>
+                </ul>
+            </section>
+            <section class="projects">
+                <h2>Projects</h2>
+                <ul class="event">
+                    <h3>Mooditunes</h3>
+                    <p>Created a music player website using HTML,CSS and JavaScript</p>
+                </ul>
+            </section>
+        </div>
+        <div class="column">   
+    <section class="education">
+        <h2>Education</h2>
+        <ul class="timeline">
+            <li class="event">
+                <span class="duration">2023</span>
+                <h3>B.E.- Computer Science and Engineering</h3>
+                <p><b><em>Kings Engineering College</em></b></p>   
+                7.802% (upto 5th Sem)
+                </p>
+            </li>
+            <li class="event">
+                <span class="duration">2019</span>
+                <h3>Higher Secondary School</h3>
+                <p><b><em>Government Higher Secondary School</em></b></p>
+                   59.5%
+                </p>
+            </li>
+            <li class="event">
+                <span class="duration">2017</span>
+                <h3>Secondary</h3>
+                <p><b><em>Government High School</em></b></p>
+                   75.5%
+                </p>
+            </li>
+        </ul>
+    </section>
+    <section class="skills">
+        <h2>Technical skills</h2>
+            <ul>
+                <li>C</li>
+                <li>Python</li>
+                <li>HTML</li>
+                <li>CSS</li>
+            </ul>
+    </section>
+    <section class="skills">
+        <h2>Languages Known</h2>
+            <ul>
+                <li>English</li>
+                <li>tamil</li>
+             </ul>
+    </section>
+    </div>
+    </div>
+</body>
+</html>
